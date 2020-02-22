@@ -1,5 +1,6 @@
 # autoencoders
 
+```
 Usage: python run.py [options]
 
 Options:
@@ -15,3 +16,4 @@ Options:
                         Minimum number of conditions per EHR
   --max_cond_num=MAX_COND_NUM
                         Maximum number of conditions per EHR
+```
